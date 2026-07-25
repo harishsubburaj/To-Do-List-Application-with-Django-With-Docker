@@ -167,27 +167,6 @@ http://127.0.0.1:8000/admin/
 | Time | TimeField |
 | Completed | BooleanField |
 | Created At | DateTimeField |
-
----
-
-# 📸 Screenshots
-
-Add your screenshots inside a folder named:
-
-```text
-screenshots/
-```
-
-Example:
-
-```
-dashboard.png
-add-task.png
-edit-task.png
-delete-task.png
-progress.png
-```
-
 ---
 
 # 🌟 Future Improvements
