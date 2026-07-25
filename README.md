@@ -3,25 +3,6 @@
 A modern and responsive **Todo List Web Application** built using **Django**, **MySQL**, **Bootstrap 5**, **HTML**, **CSS**, and **JavaScript**. The application helps users organize daily tasks with features like task creation, editing, deletion, completion tracking, search, and progress monitoring.
 
 ---
-
-## 📸 Project Preview
-
-> Add screenshots of your project here.
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Add Task
-
-![Add Task](screenshots/add-task.png)
-
-### Progress Tracking
-
-![Progress](screenshots/progress.png)
-
----
-
 # 🚀 Features
 
 - ✅ Add New Tasks
@@ -64,42 +45,6 @@ A modern and responsive **Todo List Web Application** built using **Django**, **
 - MySQL Workbench
 
 ---
-
-# 📂 Project Structure
-
-```text
-todo_project/
-│
-├── todo/
-│   ├── migrations/
-│   ├── admin.py
-│   ├── forms.py
-│   ├── models.py
-│   ├── urls.py
-│   ├── views.py
-│
-├── todo_project/
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
-├── media/
-├── manage.py
-├── requirements.txt
-├── .gitignore
-└── README.md
-```
-
----
-
 # ⚙️ Installation
 
 ## Clone Repository
